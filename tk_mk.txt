@@ -1,0 +1,3 @@
+// database sql server
+tk: admin
+mk: 123456aA@$
